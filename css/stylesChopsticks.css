@@ -1,0 +1,11 @@
+body, html {
+    height: 100%;
+}
+
+#chopsticksBg {
+    background-image: url(/nice-chopsticks-red.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+}
